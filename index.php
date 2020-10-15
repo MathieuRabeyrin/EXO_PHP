@@ -1,5 +1,5 @@
 <?php
-    include_once("./php/data.php")
+    include_once("./php/data.php");
 ?>
 
 <!DOCTYPE html>
