@@ -46,7 +46,7 @@
 
         </div>
         <footer>
-            <p>&copy; - Giusmili <?php echo(date('Y')) ?></p>
+            <p>&copy; - Giusmili <?php echo(date('Y')); ?></p>
         </footer>
     </main>
 </body>
