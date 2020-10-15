@@ -34,26 +34,6 @@
                     <?php
                         display($ranks, 0, 0);
                     ?> 
-                   <!--<tr>
-                        <td>1</td>
-                        <td>Python</td>
-                        <td>Web &amp; application</td>
-                    </tr>
-                    <tr>
-                        <td>2</td>
-                        <td>C++</td>
-                        <td>Application</td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>Node js</td>
-                        <td>Web &amp; application</td>
-                    </tr>
-                    <tr>
-                            <td>4</td>
-                            <td>Php</td>
-                            <td>Web &amp; application</td>
-                    </tr>-->
                 </tbody>
                 <tfoot>
                         <tr>
